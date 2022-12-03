@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "Any Restaurant",
+  "kitchen": "Italian",
+  "work": true,
+  "topics": [
+    "Pizza",
+    "Pasta",
+    "Coffee",
+    "Wine"
+  ],
+  "address": {
+    "city": "Karaganda",
+    "country": "Kazakhstan"
+  }
+}
